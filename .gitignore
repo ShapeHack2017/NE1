@@ -73,3 +73,5 @@ Package.swift.orig
 Package.pins
 ApplicationConfiguration.json
 StORMlog.txt
+
+.DS_Store
